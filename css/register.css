@@ -1,0 +1,137 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+.header {
+    height: 83px;
+    border-bottom: 1px solid #c71b2a;
+    margin-bottom: 23px;
+}
+.logo {
+    padding-top: 17px;
+}
+.logo a {
+    display: block;
+}
+.registerarea {
+    height: 521px;
+    border: 1px solid #ccc;
+}
+.registerarea h3 {
+    height: 42px;
+    border-bottom: 1px solid #ccc;
+    padding-left: 10px;
+    line-height: 42px;
+    font-size: 18px;
+    color: #767676;
+    font-weight: 400;
+    background-color: #ececec;
+}
+.registerarea h3 p {
+    float: right;
+    font-size: 14px;
+    color: #767676;
+    margin-right: 11px;
+}
+.registerarea h3 p span {
+    color: #c71b2a;
+}
+.reg_for {
+    width: 565px;
+    margin: 0 auto;
+    margin-top: 28px;
+}
+.reg_for label {
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+}
+.reg_for .inp {
+    width: 240px;
+    height: 38px;
+    border: 1px solid #ccc;
+    margin: 0 9px 20px;
+}
+.reg_for ul li:nth-child(3) input {
+    margin-bottom: 10px;
+}
+.reg_for ul li:nth-child(4){
+    margin-bottom: 20px;
+}
+.reg_for ul li:nth-child(5) {
+    margin-bottom: 43px;
+}
+.error_icon {
+    display: inline-block;
+    vertical-align: middle;
+    width: 21px;
+    height: 21px;
+    margin-right: 5px;
+    background: url(../images/电商-注册_03.png);
+}
+.succs1 {
+    color: green;
+}
+.succs_icon {
+     display: inline-block;
+    vertical-align: middle;
+    width: 17px;
+    height: 16px;
+    margin-right: 5px;
+    background: url(../images/checked.png);
+}
+.safe {
+    color: #d3d3d3;
+    margin-left: 178px;
+}
+.safe em {
+    padding: 0 12px;
+    color: #fff;
+}
+.ruo {
+    background-color: #de1111;
+}
+.zhong{
+    background-color: #40b83f;
+}
+.qiang{
+    background-color: #f79100;
+}
+.agree {
+    margin-bottom: 50px;
+}
+.agree a {
+    color: #1ba1e6;
+}
+.agree .che {
+    margin-left: 101px;
+    margin-right: 14px;
+    vertical-align: middle;
+}
+.wanchengzc .btn {
+    width: 198px;
+    height: 34px;
+    margin-left: 111px;
+    background-color: #c81623;
+    line-height: 34px;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+}
+.footer {
+    margin-top: 30px;
+}
+.mod_copyright {
+    text-align: center;
+    margin-top: 20px;
+}
+.mod_copyright .links a {
+    padding: 0 8px;
+}
+.mod_copyright .copyright {
+    margin-top: 14px;
+    line-height: 20px;
+}
+.mod_copyright .copyright .icp {
+    letter-spacing: 1px;
+}
